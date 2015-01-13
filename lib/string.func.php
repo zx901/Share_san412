@@ -1,5 +1,10 @@
 <?php
 
+/**
+*descript:随机生成验证码
+*$type:验证码的类型 1:数字 2:大小写字母 3:数字+大小写字母 $length:验证码的长度
+*@return 验证码字符串
+*/
 function buildRandomString($type = 1, $length = 4)
 {
     if ($type == 1) {
