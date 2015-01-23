@@ -23,6 +23,7 @@
 		</div>
 	</div>
 </div>
+<div class="share"></div>
 <form action="doLogin.php" method="post">
 <div class="loginBox">
 	<div class="login_cont">
