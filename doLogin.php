@@ -14,5 +14,5 @@ if ($verify == $verify1) {
     }
 } else {
    echo "<script>alert('verify number is wrong');</script>";
-   echo "<script>window.location='login.php';</script>";
+   echo "<script>window.location='register.php';</script>";
 }
